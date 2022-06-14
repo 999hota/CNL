@@ -1,8 +1,5 @@
 -------------
-TRIASA MUNSHI
-ROLL-50
-DEPT-CSE
-YEAR-3RD
+
 -------------
 1. Write a program to perform the following:
 i) take input through keyboard an IP address in either binary or dotted decimal notation
